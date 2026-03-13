@@ -1,0 +1,3 @@
+city,timestamp,temperature,weathercode,windspeed,hour_of_day,day_of_week,temp_lag_1h,temp_rolling_avg
+Helsinki,2026-03-13 13:35:41.537,6.0,3,28.4,13,6,5.9,5.950000047683716
+Helsinki,2026-03-13 13:45:41.698,6.4,3,27.7,13,6,6.0,6.100000063578288
